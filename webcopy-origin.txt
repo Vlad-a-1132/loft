@@ -1,0 +1,1792 @@
+Uri: https://analytics.sitewit.com/v3/347371690/nosw/sw.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.oakame.com\v3\347371690\nosw\sw.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?onload=frmRecaptcha&render=explicit&ver=3
+File Name: C:\Downloaded Web Sites\www.oakame.com\recaptcha\api-1.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?ver=6.7.1
+File Name: C:\Downloaded Web Sites\www.oakame.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.oakame.com/en/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/about-us/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\about-us\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/contact/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/delivery-returns/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\delivery-returns\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/faq/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\faq\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/general-terms-and-conditions/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\general-terms-and-conditions\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/legals/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\legals\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/lookbook/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\lookbook\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/lookbook/bocuse/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\lookbook\bocuse\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/lookbook/bonaparte/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\lookbook\bonaparte\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/my-account/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\my-account\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/my-account/lost-password/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\my-account\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/armchairs/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\armchairs\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/armchairs/indoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\armchairs\indoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/armchairs/indoor/bonaparte-armchair/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\armchairs\indoor\bonaparte-armchair\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/armchairs/indoor/gauguin-armchair/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\armchairs\indoor\gauguin-armchair\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/armchairs/outdoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\armchairs\outdoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/armchairs/outdoor/bonaparte-armchair/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\armchairs\outdoor\bonaparte-armchair\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/armchairs/outdoor/gauguin-armchair/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\armchairs\outdoor\gauguin-armchair\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/benches/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\benches\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/benches/indoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\benches\indoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/benches/indoor/bocuse-3/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\benches\indoor\bocuse-3\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/benches/indoor/camus-3/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\benches\indoor\camus-3\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/benches/indoor/descartes/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\benches\indoor\descartes\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/benches/indoor/matisse-3/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\benches\indoor\matisse-3\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/benches/outdoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\benches\outdoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/benches/outdoor/bocuse-3/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\benches\outdoor\bocuse-3\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/benches/outdoor/camus-3/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\benches\outdoor\camus-3\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/benches/outdoor/descartes/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\benches\outdoor\descartes\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/benches/outdoor/matisse-3/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\benches\outdoor\matisse-3\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/coffee-tables/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\coffee-tables\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/coffee-tables/indoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\coffee-tables\indoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/coffee-tables/indoor/bonaparte/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\coffee-tables\indoor\bonaparte\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/coffee-tables/indoor/gauguin-coffe-table/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\coffee-tables\indoor\gauguin-coffe-table\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/coffee-tables/indoor/hugo/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\coffee-tables\indoor\hugo\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/coffee-tables/indoor/zola-coffee/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\coffee-tables\indoor\zola-coffee\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/coffee-tables/outdoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\coffee-tables\outdoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/coffee-tables/outdoor/bonaparte/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\coffee-tables\outdoor\bonaparte\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/coffee-tables/outdoor/gauguin-coffe-table/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\coffee-tables\outdoor\gauguin-coffe-table\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/coffee-tables/outdoor/hugo/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\coffee-tables\outdoor\hugo\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/coffee-tables/outdoor/zola-coffee/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\coffee-tables\outdoor\zola-coffee\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/indoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\indoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/indoor/balzac-3/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\indoor\balzac-3\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/indoor/bocuse/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\indoor\bocuse\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/indoor/bocuse/?attribute_pa_size=240&attribute_pa_thickness=8
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\indoor\bocuse\index-1.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/indoor/camus/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\indoor\camus\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/indoor/matisse/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\indoor\matisse\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/outdoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\outdoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/outdoor/bocuse/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\outdoor\bocuse\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/outdoor/bocuse/?attribute_pa_size=240&attribute_pa_thickness=8
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\outdoor\bocuse\index-1.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/outdoor/camus/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\outdoor\camus\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/dining-tables/outdoor/matisse/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\dining-tables\outdoor\matisse\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/other-furniture/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\other-furniture\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/other-furniture/indoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\other-furniture\indoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/other-furniture/indoor/curie/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\other-furniture\indoor\curie\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/other-furniture/indoor/moliere/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\other-furniture\indoor\moliere\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/other-furniture/indoor/sartre/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\other-furniture\indoor\sartre\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/other-furniture/indoor/tasting-board/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\other-furniture\indoor\tasting-board\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/other-furniture/outdoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\other-furniture\outdoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/other-furniture/outdoor/curie/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\other-furniture\outdoor\curie\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/other-furniture/outdoor/moliere/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\other-furniture\outdoor\moliere\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/other-furniture/outdoor/sartre/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\other-furniture\outdoor\sartre\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/sofas/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\sofas\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/sofas/indoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\sofas\indoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/sofas/indoor/bonaparte-sofa/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\sofas\indoor\bonaparte-sofa\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/sofas/indoor/gauguin-sofa/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\sofas\indoor\gauguin-sofa\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/sofas/indoor/zola/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\sofas\indoor\zola\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/sofas/outdoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\sofas\outdoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/sofas/outdoor/bonaparte-sofa/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\sofas\outdoor\bonaparte-sofa\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/sofas/outdoor/gauguin-sofa/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\sofas\outdoor\gauguin-sofa\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/sofas/outdoor/zola/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\sofas\outdoor\zola\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/stools/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\stools\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/stools/indoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\stools\indoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/stools/indoor/fontaine/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\stools\indoor\fontaine\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/stools/indoor/moulin/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\stools\indoor\moulin\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/stools/outdoor/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\stools\outdoor\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/stools/outdoor/fontaine/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\stools\outdoor\fontaine\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/products/stools/outdoor/moulin/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\products\stools\outdoor\moulin\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/sign-in/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\sign-in\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/en/sign-up/
+File Name: C:\Downloaded Web Sites\www.oakame.com\en\sign-up\index.htm
+Content Type: text/html
+
+Uri: https://www.oakame.com/wp-admin/js/password-strength-meter.min.js?ver=6.7.1
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-ecommerce-generic.js?ver=1.20.2
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\duracelltomi-google-tag-manager\dist\js\gtm4wp-ecommerce-generic.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-woocommerce.js?ver=1.20.2
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\duracelltomi-google-tag-manager\dist\js\gtm4wp-woocommerce.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/formidable/css/formidableforms.css?ver=1016716
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\formidable\css\formidableforms.css
+Content Type: text/css
+
+Uri: https://www.oakame.com/wp-content/plugins/formidable/js/frm.min.js?ver=6.13
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\formidable\js\frm.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/kliken-ads-pixel-for-meta/assets/kk-fb-script.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\kliken-ads-pixel-for-meta\assets\kk-fb-script.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/print-invoices-packing-slip-labels-for-woocommerce/public/js/wf-woocommerce-packing-list-public.js?ver=4.6.1
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\print-invoices-packing-slip-labels-for-woocommerce\public\js\wf-woocommerce-packing-list-public.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/css/gateway.css?ver=2.9.0
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-button\assets\css\gateway.css
+Content Type: text/css
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.9.0
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-button\assets\js\button.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-wc-gateway/assets/js/fraudnet.js?ver=2.9.0
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-wc-gateway\assets\js\fraudnet.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks.css
+Content Type: text/css
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\js\frontend\order-attribution.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=8.9.3
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\plugins\woocommerce\assets\js\sourcebuster\sourcebuster.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/public/css/app.98d471.css
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\public\css\app.98d471.css
+Content Type: text/css
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/public/js/app.bee5e7.js
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\public\js\app.bee5e7.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/android-chrome-144x144.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\android-chrome-144x144.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/android-chrome-192x192.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/android-chrome-512x512.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\android-chrome-512x512.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/apple-touch-icon-144x144.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/apple-touch-icon-180x180.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/apple-touch-icon-60x60.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/favicon-48x48.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\favicon-48x48.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/favicon/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\favicon\manifest.webmanifest
+Content Type: 
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bocuse-banc/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bocuse-banc\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bocuse-banc/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bocuse-banc\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bocuse-banc/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bocuse-banc\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bocuse-banc/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bocuse-banc\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bocuse/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bocuse\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bocuse/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bocuse\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bocuse/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bocuse\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bocuse/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bocuse\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte-fauteuil/exterior/chene-brut/sunbrella-white/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte-fauteuil\exterior\chene-brut\sunbrella-white\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte-fauteuil/exterior/chene-brut/sunbrella-white/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte-fauteuil\exterior\chene-brut\sunbrella-white\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte-fauteuil/interior/chene-brut/velvety05-creme/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte-fauteuil\interior\chene-brut\velvety05-creme\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte-fauteuil/interior/chene-brut/velvety05-creme/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte-fauteuil\interior\chene-brut\velvety05-creme\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte-table/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte-table\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte-table/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte-table\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte-table/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte-table\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte-table/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte-table\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte/exterior/chene-brut/sunbrella-white/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte\exterior\chene-brut\sunbrella-white\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte/exterior/chene-brut/sunbrella-white/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte\exterior\chene-brut\sunbrella-white\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte/interior/chene-brut/velvety05-creme/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte\interior\chene-brut\velvety05-creme\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/bonaparte/interior/chene-brut/velvety05-creme/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\bonaparte\interior\chene-brut\velvety05-creme\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/camus-banc/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\camus-banc\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/camus-banc/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\camus-banc\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/camus-banc/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\camus-banc\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/camus-banc/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\camus-banc\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/camus/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\camus\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/camus/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\camus\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/camus/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\camus\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/camus/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\camus\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/curie/exterior/chene-rabote/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\curie\exterior\chene-rabote\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/curie/exterior/chene-rabote/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\curie\exterior\chene-rabote\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/curie/interior/chene-rabote/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\curie\interior\chene-rabote\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/curie/interior/chene-rabote/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\curie\interior\chene-rabote\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/decartes/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\decartes\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/decartes/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\decartes\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/decartes/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\decartes\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/decartes/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\decartes\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/fontaine/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\fontaine\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/fontaine/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\fontaine\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/fontaine/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\fontaine\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/fontaine/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\fontaine\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin-fauteuil/exterior/chene-rabote/sunbrella-white/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin-fauteuil\exterior\chene-rabote\sunbrella-white\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin-fauteuil/exterior/chene-rabote/sunbrella-white/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin-fauteuil\exterior\chene-rabote\sunbrella-white\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin-fauteuil/interior/chene-rabote/velvety05-creme/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin-fauteuil\interior\chene-rabote\velvety05-creme\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin-fauteuil/interior/chene-rabote/velvety05-creme/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin-fauteuil\interior\chene-rabote\velvety05-creme\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin-table/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin-table\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin-table/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin-table\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin-table/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin-table\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin-table/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin-table\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin/exterior/chene-rabote/sunbrella-white/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin\exterior\chene-rabote\sunbrella-white\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin/exterior/chene-rabote/sunbrella-white/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin\exterior\chene-rabote\sunbrella-white\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin/interior/chene-rabote/velvety05-creme/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin\interior\chene-rabote\velvety05-creme\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/gauguin/interior/chene-rabote/velvety05-creme/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\gauguin\interior\chene-rabote\velvety05-creme\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/hugo/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\hugo\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/hugo/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\hugo\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/hugo/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\hugo\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/hugo/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\hugo\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/matisse-banc/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\matisse-banc\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/matisse-banc/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\matisse-banc\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/matisse-banc/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\matisse-banc\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/matisse-banc/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\matisse-banc\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/matisse/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\matisse\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/matisse/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\matisse\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/matisse/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\matisse\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/matisse/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\matisse\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/moliere/exterior/chene-rabote/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\moliere\exterior\chene-rabote\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/moliere/exterior/chene-rabote/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\moliere\exterior\chene-rabote\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/moliere/interior/chene-rabote/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\moliere\interior\chene-rabote\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/moliere/interior/chene-rabote/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\moliere\interior\chene-rabote\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/moulin/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\moulin\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/moulin/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\moulin\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/moulin/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\moulin\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/moulin/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\moulin\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/sartre/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\sartre\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/sartre/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\sartre\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/sartre/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\sartre\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/sartre/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\sartre\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola-table/exterior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola-table\exterior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola-table/exterior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola-table\exterior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola-table/interior/chene-brut/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola-table\interior\chene-brut\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola-table/interior/chene-brut/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola-table\interior\chene-brut\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/exterior/chene-brut/sunbrella-white/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\exterior\chene-brut\sunbrella-white\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/exterior/chene-brut/sunbrella-white/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\exterior\chene-brut\sunbrella-white\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/exterior/chene-brut/sunbrella-white/03.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\exterior\chene-brut\sunbrella-white\03.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/exterior/chene-brut/sunbrella-white/04.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\exterior\chene-brut\sunbrella-white\04.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/exterior/chene-brut/sunbrella-white/05.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\exterior\chene-brut\sunbrella-white\05.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/exterior/chene-brut/sunbrella-white/06.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\exterior\chene-brut\sunbrella-white\06.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/exterior/chene-brut/sunbrella-white/07.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\exterior\chene-brut\sunbrella-white\07.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/exterior/chene-brut/sunbrella-white/08.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\exterior\chene-brut\sunbrella-white\08.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/interior/chene-brut/velvety05-creme/01.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\interior\chene-brut\velvety05-creme\01.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/interior/chene-brut/velvety05-creme/02.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\interior\chene-brut\velvety05-creme\02.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/interior/chene-brut/velvety05-creme/03.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\interior\chene-brut\velvety05-creme\03.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/interior/chene-brut/velvety05-creme/04.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\interior\chene-brut\velvety05-creme\04.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/interior/chene-brut/velvety05-creme/05.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\interior\chene-brut\velvety05-creme\05.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/interior/chene-brut/velvety05-creme/06.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\interior\chene-brut\velvety05-creme\06.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/interior/chene-brut/velvety05-creme/07.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\interior\chene-brut\velvety05-creme\07.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/resources/products/compressed/zola/interior/chene-brut/velvety05-creme/08.webp
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\resources\products\compressed\zola\interior\chene-brut\velvety05-creme\08.webp
+Content Type: image/webp
+
+Uri: https://www.oakame.com/wp-content/themes/beaucoup/tarteaucitron/tarteaucitron.js
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\themes\beaucoup\tarteaucitron\tarteaucitron.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/05/62b3a50f796576f8945058a03f1b1824-1200x840.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\05\62b3a50f796576f8945058a03f1b1824-1200x840.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/05/62b3a50f796576f8945058a03f1b1824-480x336.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\05\62b3a50f796576f8945058a03f1b1824-480x336.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/05/62b3a50f796576f8945058a03f1b1824-768x538.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\05\62b3a50f796576f8945058a03f1b1824-768x538.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/05/62b3a50f796576f8945058a03f1b1824.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\05\62b3a50f796576f8945058a03f1b1824.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/05/FO715ED2C6581-BS-001-1200x900.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\05\FO715ED2C6581-BS-001-1200x900.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/05/FO715ED2C6581-BS-001-1600x1200.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\05\FO715ED2C6581-BS-001-1600x1200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/05/FO715ED2C6581-BS-001-1920x1440.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\05\FO715ED2C6581-BS-001-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/05/FO715ED2C6581-BS-001-480x360.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\05\FO715ED2C6581-BS-001-480x360.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/05/FO715ED2C6581-BS-001-768x576.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\05\FO715ED2C6581-BS-001-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/Oakame_0175534-1200x840.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\Oakame_0175534-1200x840.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/Oakame_0175534-1600x1120.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\Oakame_0175534-1600x1120.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/Oakame_0175534-480x336.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\Oakame_0175534-480x336.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/Oakame_0175534-768x537.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\Oakame_0175534-768x537.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/Oakame_0175534.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\Oakame_0175534.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_belgique_Homepage-3-1200x638.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_belgique_Homepage-3-1200x638.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_belgique_Homepage-3-1600x850.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_belgique_Homepage-3-1600x850.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_belgique_Homepage-3-480x255.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_belgique_Homepage-3-480x255.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_belgique_Homepage-3-768x408.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_belgique_Homepage-3-768x408.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_belgique_Homepage-3.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_belgique_Homepage-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_belgique_produit-2-min-1200x840.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_belgique_produit-2-min-1200x840.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_belgique_produit-2-min-1600x1120.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_belgique_produit-2-min-1600x1120.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_belgique_produit-2-min-1920x1344.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_belgique_produit-2-min-1920x1344.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_belgique_produit-2-min-480x336.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_belgique_produit-2-min-480x336.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_belgique_produit-2-min-768x538.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_belgique_produit-2-min-768x538.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_Table_-carre-1-1-e1719588967461-1200x924.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_Table_-carre-1-1-e1719588967461-1200x924.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_Table_-carre-1-1-e1719588967461-1600x1232.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_Table_-carre-1-1-e1719588967461-1600x1232.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_Table_-carre-1-1-e1719588967461-1920x1478.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_Table_-carre-1-1-e1719588967461-1920x1478.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_Table_-carre-1-1-e1719588967461-480x370.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_Table_-carre-1-1-e1719588967461-480x370.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/OAKAME_Table_-carre-1-1-e1719588967461-768x591.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\OAKAME_Table_-carre-1-1-e1719588967461-768x591.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/pexels-pixabay-220059-min-1200x800.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\pexels-pixabay-220059-min-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/pexels-pixabay-220059-min-1600x1067.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\pexels-pixabay-220059-min-1600x1067.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/pexels-pixabay-220059-min-1920x1280.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\pexels-pixabay-220059-min-1920x1280.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/pexels-pixabay-220059-min-480x320.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\pexels-pixabay-220059-min-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/06/pexels-pixabay-220059-min-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\06\pexels-pixabay-220059-min-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/Anthracite-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\Anthracite-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/Beige-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\Beige-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/Blanc-Gris-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\Blanc-Gris-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/bonaparte_canape-1200x960.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\bonaparte_canape-1200x960.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/bonaparte_canape-1600x1280.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\bonaparte_canape-1600x1280.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/bonaparte_canape-1920x1536.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\bonaparte_canape-1920x1536.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/bonaparte_canape-480x384.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\bonaparte_canape-480x384.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/bonaparte_canape-768x614.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\bonaparte_canape-768x614.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/bonaparte_table-basse-1200x960.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\bonaparte_table-basse-1200x960.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/bonaparte_table-basse-1600x1280.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\bonaparte_table-basse-1600x1280.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/bonaparte_table-basse-1920x1536.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\bonaparte_table-basse-1920x1536.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/bonaparte_table-basse-480x384.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\bonaparte_table-basse-480x384.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/bonaparte_table-basse-768x614.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\bonaparte_table-basse-768x614.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/camus_table-a-manger.png
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\camus_table-a-manger.png
+Content Type: image/png
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/COCONUT-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\COCONUT-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/Creme-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\Creme-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/GREY-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\GREY-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/Indigo-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\Indigo-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/Jaune-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\Jaune-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/NIMBUS-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\NIMBUS-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/Taupe-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\Taupe-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/TORNADO-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\TORNADO-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/Vert-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\Vert-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/WHISPER-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\WHISPER-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/WHITE-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\WHITE-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-content/uploads/2024/07/ZINC-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-content\uploads\2024\07\ZINC-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.oakame.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.oakame.com/wp-json/
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fdelivery-returns%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fdelivery-returns%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Ffaq%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Ffaq%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fgeneral-terms-and-conditions%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fgeneral-terms-and-conditions%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Flegals%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Flegals%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Flookbook%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Flookbook%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Flookbook%2Fbocuse%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Flookbook%2Fbocuse%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Flookbook%2Fbonaparte%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Flookbook%2Fbonaparte%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fmy-account%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fmy-account%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Farmchairs%2Findoor%2Fbonaparte-armchair%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Farmchairs%2Findoor%2Fbonaparte-armchair%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Farmchairs%2Findoor%2Fgauguin-armchair%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Farmchairs%2Findoor%2Fgauguin-armchair%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Farmchairs%2Foutdoor%2Fbonaparte-armchair%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Farmchairs%2Foutdoor%2Fbonaparte-armchair%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Farmchairs%2Foutdoor%2Fgauguin-armchair%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Farmchairs%2Foutdoor%2Fgauguin-armchair%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Findoor%2Fbocuse-3%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Findoor%2Fbocuse-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Findoor%2Fcamus-3%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Findoor%2Fcamus-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Findoor%2Fdescartes%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Findoor%2Fdescartes%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Findoor%2Fmatisse-3%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Findoor%2Fmatisse-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Foutdoor%2Fbocuse-3%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-76
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Foutdoor%2Fbocuse-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-77
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Foutdoor%2Fcamus-3%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-78
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Foutdoor%2Fcamus-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-79
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Foutdoor%2Fdescartes%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-80
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Foutdoor%2Fdescartes%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-81
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Foutdoor%2Fmatisse-3%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-82
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fbenches%2Foutdoor%2Fmatisse-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-83
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Findoor%2Fbonaparte%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Findoor%2Fbonaparte%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Findoor%2Fgauguin-coffe-table%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Findoor%2Fgauguin-coffe-table%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Findoor%2Fhugo%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Findoor%2Fhugo%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Findoor%2Fzola-coffee%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Findoor%2Fzola-coffee%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Foutdoor%2Fbonaparte%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-84
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Foutdoor%2Fbonaparte%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-85
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Foutdoor%2Fgauguin-coffe-table%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-86
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Foutdoor%2Fgauguin-coffe-table%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-87
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Foutdoor%2Fhugo%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-88
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Foutdoor%2Fhugo%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-89
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Foutdoor%2Fzola-coffee%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-90
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fcoffee-tables%2Foutdoor%2Fzola-coffee%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-91
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Findoor%2Fbalzac-3%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Findoor%2Fbalzac-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Findoor%2Fbocuse%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Findoor%2Fbocuse%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Findoor%2Fcamus%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Findoor%2Fcamus%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Findoor%2Fmatisse%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Findoor%2Fmatisse%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Foutdoor%2Fbocuse%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-92
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Foutdoor%2Fbocuse%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-93
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Foutdoor%2Fcamus%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-94
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Foutdoor%2Fcamus%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-95
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Foutdoor%2Fmatisse%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-96
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fdining-tables%2Foutdoor%2Fmatisse%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-97
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Findoor%2Fcurie%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Findoor%2Fcurie%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Findoor%2Fmoliere%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Findoor%2Fmoliere%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Findoor%2Fsartre%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Findoor%2Fsartre%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Findoor%2Ftasting-board%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Findoor%2Ftasting-board%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Foutdoor%2Fcurie%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-98
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Foutdoor%2Fcurie%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-99
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Foutdoor%2Fmoliere%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-112
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Foutdoor%2Fmoliere%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-113
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Foutdoor%2Fsartre%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-100
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fother-furniture%2Foutdoor%2Fsartre%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-101
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Findoor%2Fbonaparte-sofa%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Findoor%2Fbonaparte-sofa%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Findoor%2Fgauguin-sofa%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Findoor%2Fgauguin-sofa%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Findoor%2Fzola%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Findoor%2Fzola%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Foutdoor%2Fbonaparte-sofa%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-102
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Foutdoor%2Fbonaparte-sofa%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-103
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Foutdoor%2Fgauguin-sofa%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-104
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Foutdoor%2Fgauguin-sofa%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-105
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Foutdoor%2Fzola%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-106
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fsofas%2Foutdoor%2Fzola%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-107
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fstools%2Findoor%2Ffontaine%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fstools%2Findoor%2Ffontaine%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fstools%2Findoor%2Fmoulin%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fstools%2Findoor%2Fmoulin%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fstools%2Foutdoor%2Ffontaine%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-108
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fstools%2Foutdoor%2Ffontaine%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-109
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fstools%2Foutdoor%2Fmoulin%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-110
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fproducts%2Fstools%2Foutdoor%2Fmoulin%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-111
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fsign-in%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fsign-in%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fsign-up%2F
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.oakame.com%2Fen%2Fsign-up%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://www.oakame.com/wp-json/wp/v2/lookbook/1328
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\lookbook\1328
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/lookbook/1329
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\lookbook\1329
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/pages/1098
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\pages\1098
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/pages/1212
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\pages\1212
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/pages/1217
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\pages\1217
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/pages/1219
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\pages\1219
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/pages/1233
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\pages\1233
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/pages/1238
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\pages\1238
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/pages/1242
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\pages\1242
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/pages/712
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\pages\712
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/pages/963
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\pages\963
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/pages/970
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\pages\970
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/pages/975
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\pages\975
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1009
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1009
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1010
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1010
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1017
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1017
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1021
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1021
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1022
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1022
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1026
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1026
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1030
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1030
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1034
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1034
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1039
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1039
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1043
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1043
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1047
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1047
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1051
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1051
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1054
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1054
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1058
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1058
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1063
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1063
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1067
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1067
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1068
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1068
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1071
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1071
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1073
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1073
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1077
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1077
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1625
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1625
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/1811
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\1811
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product/996
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product\996
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product_cat/212
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product_cat\212
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product_cat/214
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product_cat\214
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product_cat/216
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product_cat\216
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product_cat/220
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product_cat\220
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product_cat/222
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product_cat\222
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product_cat/228
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product_cat\228
+Content Type: application/json
+
+Uri: https://www.oakame.com/wp-json/wp/v2/product_cat/230
+File Name: C:\Downloaded Web Sites\www.oakame.com\wp-json\wp\v2\product_cat\230
+Content Type: application/json
+
